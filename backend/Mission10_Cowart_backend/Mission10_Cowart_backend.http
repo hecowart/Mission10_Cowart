@@ -1,0 +1,6 @@
+@Mission10_Cowart_backend_HostAddress = http://localhost:5118
+
+GET {{Mission10_Cowart_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
